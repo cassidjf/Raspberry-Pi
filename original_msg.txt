@@ -1,0 +1,132 @@
+Delivered-To: jfcassidy@gmail.com
+Received: by 10.157.42.113 with SMTP id t104csp365925ota;
+        Sat, 25 Feb 2017 15:15:31 -0800 (PST)
+X-Received: by 10.129.74.67 with SMTP id x64mr7175064ywa.298.1488064531707;
+        Sat, 25 Feb 2017 15:15:31 -0800 (PST)
+Return-Path: <murrayrm@gmail.com>
+Received: from mail-yw0-f177.google.com (mail-yw0-f177.google.com. [209.85.161.177])
+        by mx.google.com with ESMTPS id g2si2210786ywh.78.2017.02.25.15.15.31
+        for <jfcassidy@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sat, 25 Feb 2017 15:15:31 -0800 (PST)
+Received-SPF: pass (google.com: domain of murrayrm@gmail.com designates 209.85.161.177 as permitted sender) client-ip=209.85.161.177;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@gmail.com;
+       spf=pass (google.com: domain of murrayrm@gmail.com designates 209.85.161.177 as permitted sender) smtp.mailfrom=murrayrm@gmail.com;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=gmail.com
+Received: by mail-yw0-f177.google.com with SMTP id d1so277ywd.2
+        for <jfcassidy@gmail.com>; Sat, 25 Feb 2017 15:15:31 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:subject:from:in-reply-to:date:cc
+         :content-transfer-encoding:message-id:references:to;
+        bh=3354v5h8Jnlm/0fZls3MjHG2at6eaSOKmrw8phGZlh8=;
+        b=Q4Z+nAUu9lP3lrM4At6nPCkIyUOQzxmL7jaPS3SRJFbwl/g89o/xf3SnCx8kgmGmsi
+         sl/VqoIvApsTtn7JxePKwVTCn5ztKx15v0hHoCFbanzbjWIk6xshj9FIEF5BiNNYRNRe
+         dkLvjA55sqoV5Z+SufubRR+ea7sXYObna4nkmvcGz8gDdnA9XDQ19JP4twpm3YT6SOS1
+         Omd40GkTxT/8EbenA84k7mMuN2vhWTJ0GGQpqyMY7jXf5erSpbptkTBZE68MXVUZoIfj
+         VwHnCS0MDI/gmstsRmGfSbYiVfL2NYFtD+z3xTp9CCUfTnboO0/l8LcGGlDezvxSyvej
+         behg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:subject:from:in-reply-to:date:cc
+         :content-transfer-encoding:message-id:references:to;
+        bh=3354v5h8Jnlm/0fZls3MjHG2at6eaSOKmrw8phGZlh8=;
+        b=LDa39nd7pjZvkfNeiUpTyG5WF+Ql2U9VRVz+zYo1JLcnZCEkwW4Xx6BMvWgYNJw+Ru
+         Xy468oJNYFuo27hiYvNFl4i+NmLB3LKig16TZAn2nRyHFTRQF1o9krVIf6h4w93Y9uww
+         J8NxTpAEtCiiMxCdw5Udoh3HMwr8YUIrl4ApPV655nVnz4itBBY0M7NxiK0iWJf3Mlp6
+         52BFCQUjyfZf2DGLoaEDoj2KTz7HmSeUuMkUxCLlLAoWISH61P6NlroL+fYIeX5rlGRC
+         fANpFPIfG08Na4u+bflI7vxmofolWz199VsBXYaKkBcuSlyhIOv0acsONiHVmg3RR1WG
+         xn3g==
+X-Gm-Message-State: AMke39mn7sg9zF4ezFmoSv1f3srTW+baXLjPJeb5qwl32yV/jD7K7c0wnQ5W+dZoS0b9XQ==
+X-Received: by 10.129.98.70 with SMTP id w67mr6477229ywb.184.1488064531302;
+        Sat, 25 Feb 2017 15:15:31 -0800 (PST)
+Return-Path: <murrayrm@gmail.com>
+Received: from [10.0.1.55] ([138.229.251.70])
+        by smtp.gmail.com with ESMTPSA id z37sm5033967ywj.39.2017.02.25.15.15.30
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sat, 25 Feb 2017 15:15:30 -0800 (PST)
+Content-Type: text/plain; charset=utf-8
+Mime-Version: 1.0 (Mac OS X Mail 10.2 \(3259\))
+Subject: Re: Grand Challenges/Fellows Forum
+From: Richard Murray <murrayrm@gmail.com>
+X-Mailbutler-Link-Tracking-Uuid: 
+In-Reply-To: <a3ccb55500ae46259a3cd1516a9c2839@UUSALE02.utcmail.com>
+Date: Sat, 25 Feb 2017 15:15:13 -0800
+Cc: John Cassidy <jfcassidy@gmail.com>
+Content-Transfer-Encoding: quoted-printable
+Message-Id: <97F3B916-5ED9-4D0F-99F2-DDCEEFFA03B1@gmail.com>
+References: <c4945d5414a849308e9cf52a7fb52bad@UUSALE0Q.utcmail.com>
+ <a3ccb55500ae46259a3cd1516a9c2839@UUSALE02.utcmail.com>
+To: Clas Jacobson <JacobsCA@utrc.utc.com>
+X-Mailer: Apple Mail (2.3259)
+
+Thanks for sending.  I did a quick search for =E2=80=9Cdata=E2=80=9D and =
+=E2=80=9Clearning=E2=80=9D and got zero hits.  Kind of interesting.  =
+Several things that would rely on those topics, though, and the word =
+=E2=80=9Cintelligent=E2=80=9D showed up a couple of times (usually in =
+line with the old =E2=80=9Csmart products=E2=80=9D vision from ~1999).  =
+The term =E2=80=9Ccontrol=E2=80=9D showed up (well, twice if you count =
+the footer).
+
+Most of the ideas struck me as sensible, but not =E2=80=9Cre-invent the =
+company=E2=80=9D types of ideas.  Perhaps the wrong industry.
+
+It might be interesting to bin these into a couple of major categories =
+and see if anything popped out from that.
+
+-richard
+
+> On Feb 25, 2017, at 14:37, Jacobson, Clas A UTRC =
+<JacobsCA@utrc.utc.com> wrote:
+>=20
+> =20
+> =20
+> Clas A. Jacobson
+> Chief Scientist
+> United Technologies Systems & Controls Engineering
+> Clas.Jacobson@utsce.utc.com
+> 860.610.7652 (office)
+> 860.830.4151 (mobile)
+> =20
+> From: McDonald, Kathleen A UTCHQ On Behalf Of McQuade, J Michael UTCHQ
+> Sent: Tuesday, February 21, 2017 1:46 PM
+> To: DL UTC Fellows; DL UTC Fellows-Export License Required
+> Cc: McDonald, Kathleen A UTCHQ; Tulyani, Sonia UTCHQ
+> Subject: Grand Challenges/Fellows Forum
+> =20
+> To all UTC Fellows,
+> =20
+> I would like to thank you for the fruitful online discussion on Grand =
+Challenges last month.  The lively discussion resulted in a number of =
+potential Grand Challenge problems.  Please see the attached minutes for =
+the Grand Challenge ideas captured.  If you have additional suggestions, =
+please send them to Sonia Tulyani (TulyanS@utc.com) to add to the list.  =
+I am working with the UTC Technical Council to down-select from the =
+suggestions provided and make sure the Grand Challenge statements have =
+measureable milestones.  Last week, we held our last topic focused =
+Technology and Innovation forum and we are planning to launch the Grand =
+Challenge exercise in March. =20
+> =20
+> Thank you again for your participation in the online discussion.  The =
+online discussions are a good way to keep the community connected as the =
+Fellows are spread out across the globe.  We are planning for a UTC-wide =
+Fellows Forum later in the year to bring the community together in =
+person.  Please mark your calendar to save the date for September 20-22, =
+2017 in East Hartford, CT.  More details will follow in the coming =
+months.
+> =20
+> Michael
+> =20
+> Dr. J. Michael McQuade
+> Senior Vice President, Science and Technology
+> United Technologies Corporation
+> 411 Silver Lane
+> East Hartford, CT 06108
+> Phone:  1-860-610-7754
+> Fax:      1-860-610-1695
+> E-mail:   j.michael.mcquade@utc.com
+> =20
+> =20
+> <FellowsMeetingMinutes.docx>
+
